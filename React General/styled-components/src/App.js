@@ -1,3 +1,5 @@
+import { Container } from "./components/styles/Container.styled";
+
 function App() {
   return (
     <Container>
